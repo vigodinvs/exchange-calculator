@@ -19,8 +19,6 @@ swapButton.addEventListener('click', () => {
     calculate()
 })
 
-
-
 //fetch exchange rates and updates the DOM
 function calculate() {
     let currencyOne = currencyElementOne.value
